@@ -1,5 +1,5 @@
-+ Shopping
-+ Technology
-  + HTML
-  + CSS
-  + PHP
+- Shopping
+- Technology
+  - HTML
+  - CSS
+  - PHP
